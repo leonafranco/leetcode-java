@@ -2,8 +2,8 @@ package org.example;
 
 import java.util.HashSet;
 
-class containsDuplicate_217 {
-    public boolean containsDuplicate(int[] nums) {
+class Q217ContainDuplicate {
+    public boolean containsDuplicate_217(int[] nums) {
         HashSet<Integer> values = new HashSet<>();
         boolean result = false;
 

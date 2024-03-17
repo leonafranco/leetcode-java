@@ -3,7 +3,7 @@ package org.example;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+class Q1TwoSum {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> counter = new HashMap<>();
 

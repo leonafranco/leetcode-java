@@ -3,7 +3,7 @@ package org.example;
 import java.util.HashMap;
 import java.util.Map;
 
-class ValidAnagram_242 {
+class Q242ValidAnagram {
     public boolean isAnagram(String s, String t) {
         Map<Character, Integer> counter = new HashMap<>();
 
